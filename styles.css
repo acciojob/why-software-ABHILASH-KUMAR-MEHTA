@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+h1{
+	font-size: bold;
+	font-style: italic;
+}
+p{
+  color: red;
+  font-size:20px;
+  text-decoration: underline
+}
